@@ -1,5 +1,5 @@
 ---
-title: '"Untitled"'
+title: Blot Post Vault
 draft: false
 tags:
   - example-tag
