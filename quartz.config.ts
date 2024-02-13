@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           // backgroud color changed to black - sarang
           light: "#000000",
           // search box color - sarang
-          lightgray: "#264653",
+          lightgray: "#373737",
           // added a aws type color - sarang
           gray: "#CBF33E",
           // all text color changed to white - sarang
