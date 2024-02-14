@@ -1,18 +1,21 @@
-# Quartz v4
+# Heading 1
+## Heading 2
+### Heading 3
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Emphasis, aka italics, with *asterisks* or _underscores_.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Combined emphasis with **asterisks and _underscores_**.
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+[I'm an inline-style link](https://www.google.com)
 
-## Sponsors
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
