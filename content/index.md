@@ -1,5 +1,5 @@
 ---
-title: All things Tech
+title: README
 ---
 Find documentation here: [documentation](https://quartz.jzhao.xyz)
 

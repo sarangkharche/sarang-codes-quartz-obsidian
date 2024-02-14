@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: " 🔗 Sarang Codes",
+    pageTitle: "🔗 Sarang Codes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -16,8 +16,8 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Ubuntu",
+        body: "Hind",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -32,22 +32,18 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          // backgroud color changed to black - sarang
-          light: "#000000",
-          // search box color - sarang
-          lightgray: "#373737",
-          // added a aws type color - sarang
-          gray: "#CBF33E",
-          // all text color changed to white - sarang
-          darkgray: "#fffff",
-          // added bright yellow neon color - sarang
-          dark: "#fffff",
-          // added bright yellow neon color - sarang
+          // background color - sk
+          light: "#333333",
+          //search bar color - sk
+          lightgray: "#888888",
+          gray: "#646464",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          // header color - sk
           secondary: "#CBF33E",
-          // hover color - sarang
-          tertiary: "#F4A261",
-          // tag background color - sarang
-          highlight: "#264653",
+          // hover color - sk 
+          tertiary: "#808080",
+          highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
     },
