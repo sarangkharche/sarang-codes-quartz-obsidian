@@ -1,16 +1,26 @@
 ---
-title: Why I love Wrap Terminal
+title: Why I love Warp Terminal
 draft: false
 tags:
   - macos
   - terminal
   - devops
 ---
+
+![[GitHub - warpdotdevWarp Warp is a modern, Rust-based terminal wit 1.png]]
+
 # What is Wrap Terminal?
 
+Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+# What features does it have?
 
-## What features does it have?
-### Why I love it
+Wrap AI, Wrap Drive, Wrap Etc
+
+# Why I love it?
+
+Its fast and suggests if the command is wrong. The AI allows to search within terminal all the common commands rather than Googling it! Saves Time!
+
+
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
