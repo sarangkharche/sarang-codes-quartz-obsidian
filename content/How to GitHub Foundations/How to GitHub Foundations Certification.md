@@ -4,7 +4,6 @@ draft: false
 tags:
   - example-tag
 ---
-# How to GitHub Foundations Certification
 
 > **How to use this template :**
 
