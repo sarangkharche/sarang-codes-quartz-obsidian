@@ -14,7 +14,8 @@ tags:
 
 # Introduction
 
-I have challenged myself to take prepare and take the GitHub Foundations exam in 36 hours! (Not that I don't have other things to do haha)
+I have challenged myself to prepare and sit for the GitHub Foundations exam in 36 hours! 
+(Not that I don't have other things to do)
 
 But let's get in to it:
 
