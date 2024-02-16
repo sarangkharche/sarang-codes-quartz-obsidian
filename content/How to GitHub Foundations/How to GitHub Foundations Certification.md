@@ -1,8 +1,7 @@
 ---
 title: How to GitHub Actions
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
 
 > **How to use this template :**
@@ -11,7 +10,7 @@ tags:
 
 ---
 
-# Introduction
+# Introduction 
 
 I have challenged myself to take prepare and take the GitHub Foundations exam in 36 hours! (Not that I don't have other things to do haha)
 
