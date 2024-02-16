@@ -7,7 +7,6 @@ tags:
   - devops
 ---
 
-![[GitHub - warpdotdevWarp Warp is a modern, Rust-based terminal wit 1.png]]
 
 ### What is Wrap Terminal?
 

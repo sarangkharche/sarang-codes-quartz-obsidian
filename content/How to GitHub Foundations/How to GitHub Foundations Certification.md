@@ -18,14 +18,13 @@ I have challenged myself to take prepare and take the GitHub Foundations exam in
 
 But let's get in to it:
 
-- Step 1 - Book the exam to motivate yourself to study.
+- Step 1 - Book the exam to motivate yourself to study [here](https://examregistration.github.com/certification/GHF).
 - Step 2 - Write a blog to procrastinate.
 - Step 3 - Read the study [guide](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf)
 - Step 4 - Learning Path [here](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 - Step 5 - YouTube Tutorial [here](https://www.youtube.com/watch?v=Jdc0i7RcBv8&t=30038s)
 - Step 6 - Practice Exam [here](https://ghcertified.com/)
 
-### GitHub Foundation Cert - [Book Here](https://examregistration.github.com/certification/GHF)
 
 ![Foundations River Image.png](https://res.craft.do/user/full/bfc7e208-6889-acda-34d3-41fecaa071c1/doc/5DCFE626-E381-4772-A55C-056C6B3E05F4/1B47F2C9-92F9-4AA8-95FC-B59EE07D19DF_2/La6Awlg37wdoRDBeyQtWPc7PbhH59ZxFeWjephVOVg0z/Foundations%20River%20Image.png)
 
