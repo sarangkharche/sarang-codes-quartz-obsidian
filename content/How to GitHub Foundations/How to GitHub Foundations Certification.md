@@ -1,7 +1,8 @@
 ---
 title: How to GitHub Actions
 draft: false
-tags: []
+tags:
+  - "#github"
 ---
 
 > **How to use this template :**
