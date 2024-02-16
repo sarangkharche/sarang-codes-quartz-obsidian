@@ -4,6 +4,7 @@ draft: false
 tags:
   - example-tag
 ---
+# How to GitHub Foundations Certification
 
 > **How to use this template :**
 
@@ -13,12 +14,15 @@ tags:
 
 # Introduction
 
-Create an overview of the problem you are looking to solve
+I have challenged myself to take prepare and take the GitHub Foundations exam in 36 hours! (Not that I don't have other things to do haha)
 
-- Issue Detail 1
-- Issue Detail 2
-- Issue Detail 3
-- Issue Detail 4
+But let's get in to it:
+
+- Step 1 - Book the exam to motivate yourself to study.
+- Step 2 - Write a blog to procrastinate.
+- Step 3 - Read the study [guide](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf)
+- Step 4 - Learning Path [here](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+- Step 5 - YouTube Tutorial [here](https://www.youtube.com/watch?v=Jdc0i7RcBv8&t=30038s)
 
 # Theory of operation
 
