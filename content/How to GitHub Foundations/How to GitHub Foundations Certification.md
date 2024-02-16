@@ -1,8 +1,9 @@
 ---
-title: How to GitHub Actions
+title: How to GitHub Foundations Certification
 draft: false
 tags:
   - "#github"
+  - certification
 ---
 
 > **How to use this template :**
