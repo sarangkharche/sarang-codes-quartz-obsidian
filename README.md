@@ -3,6 +3,8 @@
 ## Heading 2
 ### Heading 3
 
+#### Heading 4
+
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -20,3 +22,35 @@ Combined emphasis with **asterisks and _underscores_**.
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 ![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+### Mardown Syntax
+
+```js
+This is a JS code.
+```
+
+#### Unordered List
+
+- "-" to have bullet points
+- "+" to have bullet points
+
+#### Ordered List
+
+1. Hello
+2. Hello 2
+
+1) hello 
+2) hello 2
+
+#### Bold 
+
+- **Test** using ****Test****
+
+#### Italics
+
+- *Test* using *****Test*
+
+#### Headings
+
+# H1  using # H1
