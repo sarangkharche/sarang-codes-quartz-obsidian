@@ -1,5 +1,5 @@
 ---
-title: README
+title: Blog | Sarang Codes
 ---
 Find documentation here: [documentation](https://quartz.jzhao.xyz)
 
